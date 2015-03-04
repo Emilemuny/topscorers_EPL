@@ -7,7 +7,7 @@ angular.module('topscorers', []).
          lastname: 'Costa'
        },
        goals: 17,
-       nationality: 'Belgian',
+       nationality: 'Belgium',
        team: 'Chelsea'
      },
 
@@ -17,7 +17,7 @@ angular.module('topscorers', []).
          lastname: 'Aguero'
        },
        goals: 17,
-       nationality: 'Argentinian',
+       nationality: 'Argentina',
        team: 'Manchester City'
      },
 
@@ -27,7 +27,7 @@ angular.module('topscorers', []).
          lastname: 'Kane'
        },
        goals: 14,
-       nationality: 'English',
+       nationality: 'England',
        team: 'Tottenham'
      },
 
@@ -37,7 +37,7 @@ angular.module('topscorers', []).
          lastname: 'Austin'
        },
        goals: 14,
-       nationality: 'English',
+       nationality: 'England',
        team: 'QPR'
      },
 
@@ -47,7 +47,7 @@ angular.module('topscorers', []).
          lastname: 'Berahino'
        },
        goals: 12,
-       nationality: 'Burundian',
+       nationality: 'Burundi',
        team: 'West Brom'
      },
 
@@ -57,7 +57,7 @@ angular.module('topscorers', []).
          lastname: 'Sanchez'
        },
        goals: 12,
-       nationality: 'Chilean',
+       nationality: 'Chile',
        team: 'Arsenal'
      },
 
@@ -67,7 +67,7 @@ angular.module('topscorers', []).
          lastname: 'Cisse'
        },
        goals: 11,
-       nationality: 'Senegalese',
+       nationality: 'Senegal',
        team: 'Newcastle united'
      },
 
@@ -87,7 +87,7 @@ angular.module('topscorers', []).
          lastname: 'Rooney'
        },
        goals: 10,
-       nationality: 'English',
+       nationality: "England",
        team: 'Manchester united'
      },
 
