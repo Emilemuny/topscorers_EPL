@@ -7,7 +7,7 @@ angular.module('topscorers', []).
          lastname: 'Costa'
        },
        goals: 17,
-       nationality: 'Belgium',
+       nationality: 'Spain',
        team: 'Chelsea'
      },
 
