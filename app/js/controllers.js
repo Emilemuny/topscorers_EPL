@@ -1,4 +1,4 @@
-angular.module('topscorers', [])
+angular.module('topscorers', []).
  controller('playersCtlr', function($scope) {
    $scope.playersList = [
      {
